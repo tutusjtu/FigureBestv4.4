@@ -1,5 +1,5 @@
 # FigureBest v4.4
-FigureBestv4.4 SCI绘图美化
+FigureBestv4.4 SCI绘图美化 [下载链接](https://github.com/tutusjtu/FigureBestv4.4)
 
 FigureBest（简称：FB）是图图基于MATLAB开发的懒人式数据图美化软件。可自动识别绘图类型(plot,bar,boxplot,scatter,surf,...)，提供高端的配色方案并一键美化;具备强大批处理功能，同步调节多张图；旧版已有取色器、滤波器、动画制作、高清导出...
 
