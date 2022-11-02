@@ -1,9 +1,11 @@
 # FigureBest v4.4
 
 FigureBest v4.4 SCI Drawing Beautification [download link] (https://tutongdao.lanzoum.com/iXY9e0eonh4d)
+
 FigureBestv4.4 SCI绘图美化 [下载链接] (https://tutongdao.lanzoum.com/iXY9e0eonh4d)
 
 FigureBest (abbreviation: FB) is a very easy to use data graph beautification software based on MATLAB. Automatic recognition of drawing types (plot, bar, boxplot, scatter, surf, ...) The new version offers a high-end colour scheme and one-click beautification; powerful batch processing, simultaneous adjustment of multiple drawings; older versions already have colour pickers, filters, animation, High resolution export...
+
 FigureBest（简称：FB）是图图基于MATLAB开发的懒人式数据图美化软件。可自动识别绘图类型(plot,bar,boxplot,scatter,surf,...)，提供高端的配色方案并一键美化;具备强大批处理功能，同步调节多张图；旧版已有取色器、滤波器、动画制作、高清导出...
 
 
@@ -20,10 +22,12 @@ FigureBest（简称：FB）是图图基于MATLAB开发的懒人式数据图美�
 ![image](https://user-images.githubusercontent.com/104671948/179134794-d5c0586c-2158-4f4c-94cb-a230d8006c53.png)
 
 # run fb.m
+
 # 启动函数 fb.m
 
 
 You can choose to add the path as before; or you can just run fb.m to start it. I'll write fb.m again here as well, please read it carefully, it's actually an important tutorial.
+
 可以选择和之前一样添加路径；也可以直接运行fb.m启动，我在这里也写一遍fb.m，请认真阅读，其实也是一个重要教程。
 
 
@@ -89,6 +93,7 @@ FigureBest_v4
 ```
 
 # Tutorials
+
 # 使用教程
 
 - [1] 4.0: https://www.bilibili.com/video/BV1Fh411S7cM
