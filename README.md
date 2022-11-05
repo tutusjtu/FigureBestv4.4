@@ -1,4 +1,4 @@
-# FigureBest v4.4
+# FigureBest v4
 
 FigureBest v4.4 SCI Drawing Beautification [download link] (https://tutongdao.lanzoum.com/iXY9e0eonh4d)
 
@@ -8,6 +8,7 @@ FigureBest (abbreviation: FB) is a very easy to use data graph beautification so
 
 FigureBest（简称：FB）是图图基于MATLAB开发的懒人式数据图美化软件。可自动识别绘图类型(plot,bar,boxplot,scatter,surf,...)，提供高端的配色方案并一键美化;具备强大批处理功能，同步调节多张图；旧版已有取色器、滤波器、动画制作、高清导出...
 
+目前最新版为 4.5。
 
 [2022.11.02]
 
